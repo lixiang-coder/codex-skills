@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Docs Markdown"
+  short_description: "Write clean Markdown API interface docs."
+  default_prompt: "Use $writing-api-docs-markdown to draft or update Markdown API documentation for these backend endpoints."
